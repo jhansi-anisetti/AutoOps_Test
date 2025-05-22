@@ -1,20 +1,19 @@
 {
-  "name": "AdobeTest",
-  "projectId": "8b54d555-05fb-40ae-a102-49857f0f9310",
+  "name": "ForEach",
+  "projectId": "193698f7-4605-4041-b98c-cfdddd0f81a2",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.22.2]",
-    "UiPath.IntegrationService.Activities": "[1.7.0]",
-    "UiPath.Mail.Activities": "[1.21.1]",
-    "UiPath.System.Activities": "[23.10.2]",
-    "UiPath.Testing.Activities": "[23.10.0]",
-    "UiPath.UIAutomation.Activities": "[23.10.3]"
+    "UiPath.Excel.Activities": "[2.20.2]",
+    "UiPath.Mail.Activities": "[1.20.3]",
+    "UiPath.System.Activities": "[23.4.3]",
+    "UiPath.Testing.Activities": "[23.4.1]",
+    "UiPath.UIAutomation.Activities": "[23.4.7]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "23.10.0.0",
+  "studioVersion": "23.4.3.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -52,7 +51,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "184e35f3-a1d0-4fc3-aad4-62da24b1a3a1",
+      "uniqueId": "dc421742-4d40-4e5c-b63b-5132c9a237ea",
       "input": [],
       "output": []
     }
